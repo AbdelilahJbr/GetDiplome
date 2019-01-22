@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Diplome
+comment0.text=\r\n\ \r\n\ @author\ Abdelilah\ Jabri\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Diplome()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ activate()
+comment4.params=
+comment4.target=void\ deactivate()
+comment5.params=
+comment5.target=void\ walk()
+comment6.params=x\ y
+comment6.target=nodeMap\ getNodeAt(int,\ int)
+comment7.params=x\ y
+comment7.target=boolean\ isAt(int,\ int)
+numComments=8

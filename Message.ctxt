@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Message
+comment0.text=\r\n\ \r\n\ @author\ Abdelilah\ Jabri\r\n\ @version\ 0.1\r\n
+comment1.params=world
+comment1.target=Message(MyWorld)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=world
+comment3.target=void\ showInstructions(MyWorld)
+comment4.params=world\ gi5Active\ diplomeActive
+comment4.target=void\ showErrors(MyWorld,\ boolean,\ boolean)
+comment5.params=nodeNumb\ execTime\ cost
+comment5.target=void\ showResults(int,\ double,\ double)
+numComments=6

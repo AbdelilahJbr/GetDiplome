@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=nodeSearch
+comment0.text=\r\n\r\n\ @author\ Abdelilah\ Jabri\r\n\ @version\ 0.1\r\n
+comment1.params=nodemap\ cost\ f\ par
+comment1.target=nodeSearch(nodeMap,\ double,\ double,\ nodeSearch)
+comment2.params=
+comment2.target=nodeMap\ getNode()
+comment3.params=
+comment3.target=nodeSearch\ getParent()
+comment4.params=
+comment4.target=double\ getCost()
+comment5.params=
+comment5.target=double\ getFVal()
+numComments=6

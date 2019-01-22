@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=nodeMap
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Abdelilah\ Jabri\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=nodeMap()
+comment2.params=cost\ x\ y
+comment2.target=nodeMap(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=java.util.List\ getTraversableNeighbors()
+comment6.text=\r\n\ @returns\ the\ nodes\ above,\ beneath,\ left\ and\ right\ of\ this\ node.\r\n
+comment7.params=
+comment7.target=java.util.List\ getDiagonallyTraversableNeighbors()
+comment7.text=\r\n\ @returns\ the\ nodes\ diagonally\ adgject\ to\ this\ node.\r\n
+comment8.params=
+comment8.target=void\ setStatus()
+comment8.text=\r\n\ if\ the\ mouse\ is\ pressed\ on\ this\ node\ toggle\ it's\ state\ depending\ on\ the\ key\ pressed.\r\n
+comment9.params=
+comment9.target=void\ flip()
+numComments=10
